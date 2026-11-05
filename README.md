@@ -14,7 +14,9 @@ GitHub Pages：main 分支，根目錄。
 
 ## 目前狀態
 
-報名表單尚未啟用；網頁目前僅顯示匯款與登錄說明。
+報名表單已啟用：https://docs.google.com/forms/d/e/1FAIpQLScIHOlcCPnB-vMUe8Z1a5qZ0A2ckWNZBSgMWFApjirAPnbfQA/viewform
+
+每場 NT$600，可複選場次。Google 表單回覆存於主辦方私有試算表。
 
 ## 素材來源
 
